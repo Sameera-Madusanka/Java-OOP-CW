@@ -1,0 +1,11 @@
+Gender - female
+
+height - 5'4"
+
+weight - 65Kg
+
+skintype -dry
+
+skinsensitivity - extreamly sensitive skin
+
+

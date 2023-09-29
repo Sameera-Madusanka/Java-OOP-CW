@@ -1,0 +1,19 @@
+------------------------------Doctors list------------------------------
+Name                   : sameera
+Surname                : madusanka
+Date of birth          : 32432
+Mobile number          : 32432
+Medical licence number : 322423
+Specialisation         : cosmetic dermatology
+------------------------------Patient list------------------------------
+Patient id        : 10
+Patient name      : kamal
+Patient surname   : dfdf
+Patient DOB       : dfsfdf
+Patient mobile NO : 42542
+------------------------------Consultation List------------------------------
+Patient name : kamal
+Patient Id   : 10
+booked Consultation date and time: 12 At 332
+Consultation conduct by--> cosmetic dermatology <--Specialist Dr.sameera
+Consultation cost : 50
